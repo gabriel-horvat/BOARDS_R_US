@@ -1,1 +1,4 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+
+You can check out the fully functioning app at https://boards-r-us.herokuapp.com/
+
+To be able to use the apps full functionality, please sign up first.
